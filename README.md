@@ -1,3 +1,3 @@
 # rainy-window
 
-##Left Click to add the raindrops
+Left Click to add the raindrops
